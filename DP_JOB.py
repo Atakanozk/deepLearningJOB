@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jul  6 11:09:50 2020
-
 @author: ataka
 """
 
